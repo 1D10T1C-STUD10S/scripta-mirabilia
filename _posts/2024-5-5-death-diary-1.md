@@ -30,6 +30,6 @@ Yet some crumble when they see me. *Crumble*. \
 That's quite literally it. **Crumble**. 
 
 It's painful. I know. \
-I am a witness to many a tragic death. \
+I am a witness to many a tragic death. 
 
 And I'll be a witness to mine, too.
