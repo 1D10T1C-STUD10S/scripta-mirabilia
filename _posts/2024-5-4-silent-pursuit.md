@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mini Story - The Silent Hunter"
+title: "Short Story - The Silent Hunter"
 author: "Dev10us"
 tags: story
 ---
