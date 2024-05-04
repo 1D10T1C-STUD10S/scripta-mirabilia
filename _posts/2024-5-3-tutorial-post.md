@@ -20,6 +20,7 @@ This is for anyone who wishes to write on Scripta Mirabilla
 3. You will need to put in the `layout, title, author and tags` parameters before continuing.
    
    - Follow the template for the parameters:
+
   ```
       ---
      
@@ -33,6 +34,7 @@ This is for anyone who wishes to write on Scripta Mirabilla
      
       ---
   ```
+
 4. Now you can add in the contents of your post in Markdown, HTML is also supported.
    
 5. Finally, press 'commit changes' and wait for Github to serve it onto the site.
