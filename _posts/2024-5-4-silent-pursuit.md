@@ -3,7 +3,6 @@ layout: post
 title: "Mini Story - The Silent Hunter"
 author: "Dev10us"
 tags: story
-comments: true
 ---
 
 ## The Silent Hunter
