@@ -1,0 +1,41 @@
+{
+  "background_color": "#ffffff",
+  "description": "Written Wonder by 1DST",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Scripta Mirabilia",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Scripta Mirabilia",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/scripta-mirabilia/assets/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/scripta-mirabilia/assets/favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "/scripta-mirabilia/assets/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "312x312"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "id": "1DSTSM",
+  "display_override": [
+    "standalone",
+    "minimal-ui",
+    "fullscreen",
+    "window-controls-overlay",
+    "browser"
+  ]
+}
