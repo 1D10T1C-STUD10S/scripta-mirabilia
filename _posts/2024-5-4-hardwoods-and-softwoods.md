@@ -3,7 +3,6 @@ layout: post
 title: Hardwoods and Softwoods
 author: Dev10us
 tags: botany biology facts
-comments: true
 ---
 
 # Hardwoods vs Softwoods
