@@ -5,3 +5,9 @@ author: "1D10T1C STUD10S"
 permalink: /about/
 ---
 
+# Scripta Mirabilla
+
+Hey there! This is 1D10T1C-STUD10S's small website for anything... Anything at all.
+
+Back to our homepage? 
+Go [here!](https://1d10t1c-stud10s.github.io)
