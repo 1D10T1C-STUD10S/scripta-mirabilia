@@ -11,9 +11,9 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "/scripta-mirabilia/assets/favicon-32x32.png",
+      "src": "/scripta-mirabilia/assets/favicon-1248x1248.png",
       "type": "image/png",
-      "sizes": "312x312"
+      "sizes": "1248x1248"
     },
     {
       "src": "/scripta-mirabilia/assets/favicon-16x16.png",
