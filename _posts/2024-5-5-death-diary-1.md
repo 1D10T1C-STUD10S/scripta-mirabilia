@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Short Story - Death's Diary
-author: Dev10us
+title: "Short Story - Death's Diary"
+author: "Dev10us"
 tags: story
 ---
 
