@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hardwoods and Softwoods
+title: Botany - Hardwoods and Softwoods
 author: Dev10us
 tags: botany biology facts
 ---
