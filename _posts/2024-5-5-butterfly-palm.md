@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Dev10us"
-tags: botany facts
+tags: botany facts biology
 title: "Botany - Case Study: Butterfly Palm"
 ---
 
