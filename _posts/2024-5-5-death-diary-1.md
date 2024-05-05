@@ -1,8 +1,8 @@
 ---
 layout: post
+title: Short Story - Death's Diary
 author: Dev10us
 tags: story
-title: Short Story - Death's Diary
 ---
 
 ## Death's Diary
