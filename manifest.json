@@ -5,9 +5,9 @@
   "display": "standalone",
   "name": "Scripta Mirabilia",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/scripta-mirabilia/",
   "short_name": "Scripta Mirabilia",
-  "start_url": "/",
+  "start_url": "/scripta-mirabilia/",
   "theme_color": "#ffffff",
   "icons": [
     {
