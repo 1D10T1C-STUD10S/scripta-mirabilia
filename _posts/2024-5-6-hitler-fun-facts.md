@@ -23,7 +23,7 @@ View his art [here](https://en.m.wikipedia.org/wiki/Paintings_by_Adolf_Hitler).
 If Hitler was known for one thing, it would probably be his iconic moustache.\
 But the squarish moustache is actually because of WW1. You see, in WW1 gasses like mustard gas was used to clear places like trenches. \
 To prevent that, gas masks were given out to troops, Hitler, who fought in WW1 had a very much different moustache compared to the one he is known for.\
-The one he has now (or the one he _had_) is a result of him trimming off the edges to allow the gas mask to fit on his face. See his old moustache [here](https://www.wired.com/wp-content/uploads/images_blogs/photos/uncategorized/2007/05/07/whitler06.jpg).
+The one he has now (or the one he _had_) is a result of him trimming off the edges to allow the gas mask to fit on his face, the moustache was also a popular trend in America which spread to Germany. See his old moustache [here](https://www.wired.com/wp-content/uploads/images_blogs/photos/uncategorized/2007/05/07/whitler06.jpg).
 
 ---
 
