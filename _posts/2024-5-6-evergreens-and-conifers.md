@@ -49,7 +49,7 @@ They are native to Southern shores of North America.
 > A Dawn Redwood, source: wikipedia
 
 Under the genus Metasequoia, this dedicous conifer has the same subfamily as coast redwood. \
-They are native to places liek China and Certain parts of America.
+They are native to places like China and Certain parts of America.
 
 ---
 
