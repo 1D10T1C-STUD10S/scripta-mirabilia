@@ -11,7 +11,7 @@ We all know what the infinity sign(∞) means.
 
 _'a number greater than any assignable quantity or countable number'_ 
 > dictionary definition
-
+r
 However, if you _were_, in actual fact, to treat it as a number, you'll find that this unobtainable quantity is harder to fathom than you'd expect.
 
 
@@ -24,13 +24,13 @@ Now, there are an infinite amount of guests entering that hotel.
 **Does the hotel have enough capacity for all the guests?**
 
 Let's look back at the definition. \
-_'a number greater than any assignable quantity or countable number'_
+_'a number greater than any assignable quantity or countable number'_ \
 Therefore `infinity + 1` is still equal to infinity.
 
 Good so far?
 
 
-Now. Say this hotel had a elevator to acess all the infinite floors.\
+Now. Say this hotel had a elevator to access all the infinite floors.\
 The infinite guests have to fit into this (finite) elevator, there wouldn't be an end, would there? \
 The elevator will have to climb the infinite floors and serve the infinite guests.
 
