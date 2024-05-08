@@ -38,3 +38,7 @@ That would be an instant death. \
 
 ---
 
+## Conclusion
+
+If any of the above were to happen, it will be quite a painless death for all of us. \
+Staying alive is harder than it seems :(
