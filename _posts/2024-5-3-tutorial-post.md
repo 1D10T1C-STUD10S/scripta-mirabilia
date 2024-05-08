@@ -3,6 +3,7 @@ layout: post
 title: "Tutorial Post - For reference"
 author: "Dev10us"
 tags: start tutorial
+comments: true
 ---
 
 # Tutorial Post
