@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Theory - Alternate Universes with Black and White Holes"
+title: "{Detailed} Theory - Alternate Universes with Black and White Holes"
 author: Dev10us
 tags: physics chemistry theory detailed
 ---
