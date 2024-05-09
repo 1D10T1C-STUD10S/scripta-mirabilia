@@ -15,5 +15,5 @@ You can find all existing series right here, with links to their pages!
 
 [Series - Cosmic Theories](https://1d10t1c-stud10s.github.io/scripta-mirabilia/series/cosmic-theories)
 
-[Series - Bizzare Botany {Work in Progress!}]()
+[Series - Bizarre Botany](https://1d10t1c-stud10s.github.io/scripta-mirabilia/series/bizarre-botany)
 
