@@ -17,6 +17,8 @@ Time to have a look...
 
 ## Definitions
 
+Sit tight, this is quite a _big_ chunk of text...
+
 ### Light Cones
 
 A light cone is a path of a flash of light, often from an observer's POV, that would show the direction of that said light's path through space-time in a 2D plane.
@@ -58,5 +60,12 @@ Found in the Schwarzschild Solution when radius = 0
 ### White Holes
 
 These are hypothetical opposites of a black hole. When there's a negative, there's a positive. \
-White Holes do quite literally the opposite of what Black Holes do. Instead of _pulling_ matter and photons in, they _push_ matter and photons out.
+White Holes do quite literally the opposite of what Black Holes do. Instead of _pulling_ matter and photons in, they _push_ matter and photons out.\
+Black holes will pull you to its centre, while white holes will push out away.
+
+Sounds fun.
+
+---
+
+### The Penrose Diagram
 
