@@ -55,6 +55,10 @@ Using the previous analagy, this is the bottom of the waterfall.
 
 Found in the Schwarzschild Solution when radius = 0
 
+#### Getting sucked into a Black Hole
+
+In the event you ever cross the event horizon, you will start moving tow
+
 ---
 
 ### White Holes
