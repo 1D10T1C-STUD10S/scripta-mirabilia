@@ -15,7 +15,7 @@ Posts in this series:
 
 [Botany - Hardwoods and Softwoods](https://1d10t1c-stud10s.github.io/scripta-mirabilia/2024-05-04/hardwoods-and-softwoods)
 
-[Botany - Evergreens and Conifers](https://1d10t1c-stud10s.github.io/scripta-mirabilia/2024-05-08/expansion-of-the-universe)
+[Botany - Evergreens and Conifers](https://1d10t1c-stud10s.github.io/scripta-mirabilia/2024-05-06/evergreens-and-conifers)
 
 #### Cases:
 
