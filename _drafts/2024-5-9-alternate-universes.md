@@ -73,3 +73,10 @@ Sounds fun.
 
 ### The Penrose Diagram
 
+Penrose diagrams are 2D diagrams showing relations in space-time.\
+It shrinks/squeezes all of the obervable universe into a small space, light in this diagram will always travel at a 45 degrees angle.
+
+![IMG_1962](https://github.com/1D10T1C-STUD10S/scripta-mirabilia/assets/112738649/48b1991d-e163-4950-9823-b4bef25fdeb5)
+> picture to help visualise, source: wikipedia
+
+
