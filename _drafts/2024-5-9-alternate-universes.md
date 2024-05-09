@@ -57,7 +57,9 @@ Found in the Schwarzschild Solution when radius = 0
 
 #### Getting sucked into a Black Hole
 
-In the event you ever cross the event horizon, you will start moving tow
+In the event you ever cross the event horizon, you will start moving toward the singularity, the centre point of the black hole, photons will also struggle to exit the black hole, meaning outside observers will see you frozen in place, while the image of you slowly redshifts. Until the point your image is so redshifted its gone out of the visible spectrum.
+
+You, however, will not notice a thing.
 
 ---
 
@@ -79,4 +81,36 @@ It shrinks/squeezes all of the obervable universe into a small space, light in t
 ![IMG_1962](https://github.com/1D10T1C-STUD10S/scripta-mirabilia/assets/112738649/48b1991d-e163-4950-9823-b4bef25fdeb5)
 > picture to help visualise, source: wikipedia
 
+The Penrose diagram will be very crucial in helping us show how parallel universes may just work...
 
+---
+
+## Theory
+
+Using what we've found, we can try to piece everything together.\
+The Penrose Diagram can be used to connect two universes, one parallel to ours, the maximally extended Schwarzschild black hole solution. 
+
+![IMG_1963](https://github.com/1D10T1C-STUD10S/scripta-mirabilia/assets/112738649/e7698848-ac98-4e66-a599-795b201ebbe5)
+> picture to help with description, source: pintrest
+
+However, this _'bridge'_ to the other side closes quickly and would require a speed rival to that of light to cross.\
+But there may be another way. You see, this scenario is for _static_ black holes, ones that don't rotate, how about _rotating_ black holes?
+
+![IMG_1964](https://github.com/1D10T1C-STUD10S/scripta-mirabilia/assets/112738649/5b7248bc-5202-4c3a-88bf-a9a868d78b23)
+> picture to aid description, source: wikipedia
+
+These can be seen as time-like wormholes leading into _future universes_, this theory is completely hypothetical though, and may not actually work the way as theorised.
+
+---
+
+## Conclusion
+
+Then parallel universes may not exist after all, but...
+
+There are other theories like the Schrodinger's Cat, where there could be two scenarios that could happen or _two universes_ where two different outcomes could've occurred due to quantum mechannical states,
+
+Or, the theory of Cosmic Inflation (universe expansion and hubble volumes),
+
+But, all these are for another time, thanks for reading this, hope you've found it informative!
+
+##### Inspired by: Veritasium and Multiple Informative Websites about this topic
