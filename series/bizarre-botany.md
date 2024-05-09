@@ -7,13 +7,17 @@ tags: series
 
 ## This page is about the series - Bizarre Botany
 
-We are diving deep into theories dealing with reltivity and space-time in this series of matter-absorbing, reality-breaking set of posts! \
-Don't get _sucked_ in!
+Off into the world of plants
 
 Posts in this series:
 
-[Theory - Time Travel with Relativity](https://1d10t1c-stud10s.github.io/scripta-mirabilia/2024-05-07/time-travel-with-relativity)
+#### Introduction:
 
-[Theory - Expansion of the Universe](https://1d10t1c-stud10s.github.io/scripta-mirabilia/2024-05-08/expansion-of-the-universe)
+[Botany - Hardwoods and Softwoods](https://1d10t1c-stud10s.github.io/scripta-mirabilia/2024-05-04/hardwoods-and-softwoods)
 
-[Theory - Post is being written!]()
+[Botany - Evergreens and Conifers](https://1d10t1c-stud10s.github.io/scripta-mirabilia/2024-05-08/expansion-of-the-universe)
+
+#### Cases:
+
+[Botany - Case Study: Butterfly Palm](https://1d10t1c-stud10s.github.io/scripta-mirabilia/2024-05-05/butterfly-palm)
+
