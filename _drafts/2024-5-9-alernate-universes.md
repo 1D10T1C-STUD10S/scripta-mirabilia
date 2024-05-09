@@ -38,6 +38,10 @@ You have a very heavy metal ball, and you place it on a suspended piece of paper
 
 A black hole has an event horizon, where it would take an object a speed faster than the speed of light to escape. Much like a waterfall, after a certain point you would need a great amount of velocity to flee the fall.
 
+![IMG_1961](https://github.com/1D10T1C-STUD10S/scripta-mirabilia/assets/112738649/7ef856e6-4048-4f17-b3b3-9843cd099fcd)
+> an image for better visualisation, source: researchgate.net
+
+
 #### Singularity
 
 A Singularity is the centre point of a black hole, where everything it absorbs will eventually approach.\
@@ -46,4 +50,6 @@ This point has an infinitely strong gravitational pull/force that makes it impos
 Using the previous analagy, this is the bottom of the waterfall.
 
 ---
+
+### White Holes
 
