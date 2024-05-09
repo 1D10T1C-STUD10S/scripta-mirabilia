@@ -27,4 +27,23 @@ Graphing the growing circle with the vertical axis of the graph representing tim
 
 ---
 
- 
+### Black Holes
+
+A black hole is a matter dense point in space time where the gravity is so strong, it _sucks_ space-time around it into itself.
+
+Think of it this way.\
+You have a very heavy metal ball, and you place it on a suspended piece of paper, the paper will _bend_ towards the ball. Just like how space-time _bends_ towards a black hole.
+
+#### Event Horizons
+
+A black hole has an event horizon, where it would take an object a speed faster than the speed of light to escape. Much like a waterfall, after a certain point you would need a great amount of velocity to flee the fall.
+
+#### Singularity
+
+A Singularity is the centre point of a black hole, where everything it absorbs will eventually approach.\
+This point has an infinitely strong gravitational pull/force that makes it impossible to escape from.
+
+Using the previous analagy, this is the bottom of the waterfall.
+
+---
+
