@@ -21,3 +21,4 @@ Posts in this series:
 
 [Botany - Case Study: Butterfly Palm](https://1d10t1c-stud10s.github.io/scripta-mirabilia/2024-05-05/butterfly-palm)
 
+[Botany - Case Study: Black Pine](https://1d10t1c-stud10s.github.io/scripta-mirabilia/2024-05-10/black-pine)
