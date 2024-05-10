@@ -18,3 +18,5 @@ This pine is very resistant against pollution and salt, making it an easy plant 
 > picture of a Black Pine from Wikipedia
 
 It has grey bark and can reach the height of 40 meters, it has needle-like leaves in bundles of two.
+
+The Latin name, thunbergii is used to honour a Swedish botanist and collector.
