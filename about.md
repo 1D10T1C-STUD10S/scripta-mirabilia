@@ -9,6 +9,10 @@ permalink: /about/
 
 Hey there! This is 1D10T1C-STUD10S's small website for anything... Anything at all.
 
+Especially for **MIND BLOWING FACTS AND THEORIES AND SO, SO MUCH MORE!**
+
+_Sorry._
+
 ---
 
 ##### "scripta mirabilia" means "written wonders" in English!
