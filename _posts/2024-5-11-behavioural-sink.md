@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Zoology - Behavioural Sink
-author: Dev10us
+title: "Zoology - Behavioural Sink"
+author: "Dev10us"
 tags: zoology biology facts
 ---
 
