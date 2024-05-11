@@ -1,4 +1,10 @@
-# Scripta Mirabilia Contact Form:
+---
+layout: default
+title: Request Form
+permalink: /request/
+---
+
+# Scripta Mirabilia Form:
 
 You can use the following form to:
 
